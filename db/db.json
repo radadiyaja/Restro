@@ -1,0 +1,84 @@
+{
+  "login": [
+    {
+      "name": "ajuba",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "jay",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "ajuba",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "name": "ajuba",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "name": "ajuba",
+      "password": "1232",
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "name": "ajuba",
+      "password": "1234",
+      "id": 10
+    },
+    {
+      "name": "ajuba",
+      "password": "34",
+      "id": 11
+    },
+    {
+      "name": "ajuba",
+      "password": "34",
+      "id": 12
+    },
+    {
+      "name": "ajuba",
+      "password": "34",
+      "id": 13
+    }
+  ],
+  "restaurent": [
+    {
+      "name": "ajay",
+      "address": "adfds",
+      "rating": "svcsa",
+      "email": "sca",
+      "id": 1
+    },
+    {
+      "name": "sdc",
+      "address": "scd",
+      "rating": "sddcv",
+      "email": "sxcv",
+      "id": 2
+    },
+    {
+      "name": "jay",
+      "address": "sc",
+      "rating": "sv",
+      "email": "dasv",
+      "id": 3
+    }
+  ]
+}
